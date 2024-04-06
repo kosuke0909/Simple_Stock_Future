@@ -1,0 +1,4 @@
+0 double top
+1 double botton
+2 head and shoulder top
+3 head and shoulder bottom
